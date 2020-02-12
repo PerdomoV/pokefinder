@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pokefinder/static/css/main.352c68fa.chunk.css",
+    "main.js": "/pokefinder/static/js/main.7a2addd0.chunk.js",
+    "main.js.map": "/pokefinder/static/js/main.7a2addd0.chunk.js.map",
+    "runtime-main.js": "/pokefinder/static/js/runtime-main.bd3533a5.js",
+    "runtime-main.js.map": "/pokefinder/static/js/runtime-main.bd3533a5.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/pokefinder/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.01e35926.chunk.js": "/pokefinder/static/js/2.01e35926.chunk.js",
+    "static/js/2.01e35926.chunk.js.map": "/pokefinder/static/js/2.01e35926.chunk.js.map",
+    "index.html": "/pokefinder/index.html",
+    "precache-manifest.c3556aa8c9404c5dd8df258e601441e6.js": "/pokefinder/precache-manifest.c3556aa8c9404c5dd8df258e601441e6.js",
+    "service-worker.js": "/pokefinder/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/pokefinder/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.352c68fa.chunk.css.map": "/pokefinder/static/css/main.352c68fa.chunk.css.map",
+    "static/js/2.01e35926.chunk.js.LICENSE.txt": "/pokefinder/static/js/2.01e35926.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3533a5.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.01e35926.chunk.js",
+    "static/css/main.352c68fa.chunk.css",
+    "static/js/main.7a2addd0.chunk.js"
+  ]
+}
