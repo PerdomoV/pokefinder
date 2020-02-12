@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display:flex;
+  justify-content: center;
+}
+
+.app-container{
+  background-color: #282c34;
+  height: auto;
+  width: 200vh;
+  display: grid;
+  grid-template-rows: 30vh auto;
+  grid-gap:0;
+  height: 100vh;
+}
+
+.results-container{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  padding: 0 0 40px 0;
+  margin: 0;
+}
+
+.App-header {
+  margin:10px 0 0 0;
+  height: 20vh;
+  width: 200vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
